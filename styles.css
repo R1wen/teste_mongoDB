@@ -1,0 +1,43 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', serif;
+}
+
+.container{
+    padding: 10px;
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: rgb(232, 178, 138);
+    color: black;
+    box-shadow: 0 0 5px #ff6262;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+}
+
+form label{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+form input{
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+form button{
+    padding: 8px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    margin-top: 15px;
+}
