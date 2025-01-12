@@ -14,4 +14,8 @@ Une application web intuitive pour tester la route POST.
 ## Installation
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/username/mon-projet-genial.git
+   git clone [https://github.com/username/mon-projet-genial.git](https://github.com/R1wen/teste_mongoDB.git)
+
+2. intaller les dépendances
+   ```bash
+   npm install
